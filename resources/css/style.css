@@ -1,0 +1,47 @@
+/*Main Background Color*/
+* {
+  background-color: black;
+}
+
+/*Text Alignment*/
+#header, #description, #coming_soon {
+  text-align: center;
+}
+
+/*Main Header*/
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+/*Sub-headers*/
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+/*Description*/
+#description > p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+/*Links*/
+a {
+  font-family: Verdana;
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+/*Footer*/
+#footer {
+  font-family: Verdana;
+  text-align: right !important;
+  color: gray;
+  font-size: 21px;
+}
